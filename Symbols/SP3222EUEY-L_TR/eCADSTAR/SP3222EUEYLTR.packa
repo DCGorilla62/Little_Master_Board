@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SP3222EUEY-L_TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-06-16-10:22:34)
+    (mountForm default
+        (footprintRef "SP3222EUEYLTR")
+        (spec "System")
+    )
+)

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SP3222EUEYLTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SP3222EUEYLTR")
+        (spec "default")
+    )
+)

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MJ-3502"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-27-15:56:09)
+    (mountForm default
+        (footprintRef "MJ3502")
+        (spec "System")
+    )
+)

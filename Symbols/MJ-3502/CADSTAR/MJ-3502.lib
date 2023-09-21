@@ -1,0 +1,16 @@
+.MJ-3502 :1 ;Phone Connectors Audio Jacks
+MJ3502
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3"
+*MXP 3
+*DFN MJ-3502
+~!Mouser Part Number (490-MJ-3502)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CUI-Devices/MJ-3502?qs=WyjlAZoYn50fBk6kEetS8g%3D%3D)
+~!Manufacturer_Name (CUI Devices)
+~!Manufacturer_Part_Number (MJ-3502)
+~!Link Datasheet (https://www.cuidevices.com/product/resource/digikeypdf/mj-3502.pdf)
+~!Height (11.3mm)
+~!3D_Model (MJ-3502)
+MJ-3502
+1.1!U 2.1!U 3.1!U 

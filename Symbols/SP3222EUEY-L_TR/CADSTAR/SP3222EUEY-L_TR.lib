@@ -1,0 +1,16 @@
+.SP3222EUEY-L_TR :1 ;RS-232 Interface IC 1MBPS 3-5.5V RS-232 2-DRV/2-RCV LOW PWR
+SP3222EUEYLTR
+*STM IC
+*NGS
+*PLB 1="'EN'" 2="C1+" 3="V+" 4="C1-" 5="C2+" 6="C2-" 7="V-" 8="T2OUT" 9="R2IN" 10="R2OUT" 11="N.C._1" 12="T2IN" 13="T1IN" 14="N.C._2" 15="R1OUT" 16="R1IN" 17="T1OUT" 18="GND" 19="VCC" 20="'SHDN'"
+*MXP 20
+*DFN SP3222EUEY-L_TR
+~!Mouser Part Number (701-SP3222EUEY-L/TR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/MaxLinear/SP3222EUEY-L-TR?qs=Hy8V1%2FADhVJCPI50%2F0eNxw%3D%3D)
+~!Manufacturer_Name (MaxLinear, Inc.)
+~!Manufacturer_Part_Number (SP3222EUEY-L/TR)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/SP3222EUEY-L_TR.pdf)
+~!Height (1.2mm)
+~!3D_Model (SP3222EUEY-L_TR)
+SP3222EUEY-L_TR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 

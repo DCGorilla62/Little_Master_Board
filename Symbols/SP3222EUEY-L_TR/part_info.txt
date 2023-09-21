@@ -1,0 +1,9 @@
+Manufacturer=MaxLinear, Inc.
+PartNumber=SP3222EUEY-L/TR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=20
+Version=1.2
+Released=2019-12-27 12:45:59
+Downloaded=2023-09-20 14:27:14
+3D=Y

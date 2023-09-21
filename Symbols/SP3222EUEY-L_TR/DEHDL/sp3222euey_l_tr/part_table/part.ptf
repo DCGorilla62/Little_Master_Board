@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SP3222EUEY_L_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "MaxLinear, Inc.", "SP3222EUEY-L/TR" (!) = "", "SP3222EUEYLTR", "Other", "701-SP3222EUEY-L/TR", "https://www.mouser.co.uk/ProductDetail/MaxLinear/SP3222EUEY-L-TR?qs=Hy8V1%2FADhVJCPI50%2F0eNxw%3D%3D", "RS-232 Interface IC 1MBPS 3-5.5V RS-232 2-DRV/2-RCV LOW PWR", "https://componentsearchengine.com/Datasheets/1/SP3222EUEY-L_TR.pdf", "1.2 mm"
+END_PART
+
+END.
